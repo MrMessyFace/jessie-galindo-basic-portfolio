@@ -265,6 +265,17 @@ body {
     padding: 10px;
 }
 
+.portfolio-content .portcard-9 {
+    display: flex;
+    background-color: green;
+    color: black;
+    border: 5px solid white;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+
 .card-title {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
