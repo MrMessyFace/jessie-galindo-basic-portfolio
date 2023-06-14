@@ -74,8 +74,8 @@ body {
     justify-content: center;
     align-items: center;
     min-width: 300px;
-    
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
     padding-right: 20px;
 }
@@ -148,7 +148,7 @@ body {
     text-align: center;
 }
 
-.portfoliohead{
+.portfoliohead {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 64px;
@@ -172,7 +172,7 @@ body {
     flex-wrap: wrap;
     flex-flow: row wrap;
     gap: 10px 250px;
-    
+
 }
 
 .portfolio-content .portcard-1 {
@@ -196,7 +196,7 @@ body {
     width: auto;
     border-radius: 10px;
     padding: 10px;
-    
+
 }
 
 .portfolio-content .portcard-3 {
